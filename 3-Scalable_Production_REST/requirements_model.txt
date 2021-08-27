@@ -1,0 +1,5 @@
+redis
+image
+numpy
+torch
+torchvision

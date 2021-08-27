@@ -1,0 +1,8 @@
+flask
+gevent
+requests
+redis
+gunicorn
+image
+numpy
+torchvision
